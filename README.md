@@ -27,8 +27,6 @@ scripting, interface design, and multimedia integration.
 <img width="496" height="302" alt="image" src="https://github.com/user-attachments/assets/5f235118-741f-4993-bb4a-673cb21dfe83" />
 
 
-<img width="496" height="302" alt="Screenshot 2026-07-02 234500" src="https://github.com/user-attachments/assets/6210f59a-1f76-42ea-9188-8533860590e3" />
-
 
 Conclusion:
 
